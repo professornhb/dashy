@@ -186,7 +186,7 @@
         <a href="https://github.com/professornhb">
             <img src="https://avatars.githubusercontent.com/u/89780652?v=4" width="80;" alt="professornhb"/>
             <br />
-            <sub><b>professornhb</b></sub>
+            <sub><b>Professornhb</b></sub>
         </a>
     </td></tr>
 </table>
